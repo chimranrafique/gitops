@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\clusters",
+    "\\clusters\\dev",
+    "\\clusters\\dev\\infrastructure",
+    "\\Infrastructure",
+    "\\Infrastructure\\base",
+    "\\Infrastructure\\base\\sources",
+    "\\Infrastructure\\dev",
+    "\\Infrastructure\\dev\\sources"
+  ],
+  "SelectedNode": "\\clusters\\dev\\infrastructure\\sources.yaml",
+  "PreviewInSolutionExplorer": false
+}
